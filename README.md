@@ -1,6 +1,6 @@
 # studious-happiness
 
-## Happiness of a studious person :p
+## Happiness of a studious person :stuck_out_tongue_winking_eye:
 
 ### Solutions to some programming problems as I learn
 
